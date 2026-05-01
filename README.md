@@ -128,8 +128,11 @@ A dashboard that only makes sense to the person who built it has failed its user
 ## 👤 About
 
 **Created by:** Bushra Khan
+
 **Portfolio:** [thedataalchemist.co](http://thedataalchemist.co)
+
 **LinkedIn:** [linkedin.com/in/bushra-nazeer-khan](https://www.linkedin.com/in/bushra-nazeer-khan/)
+
 **GitHub:** [github.com/BushraKhan359](https://github.com/BushraKhan359)
 
 Available for onsite roles in Karachi, Pakistan | Open to remote globally
